@@ -1,0 +1,14 @@
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioPOOCelular\bin\Debug\net7.0\DesafioPOOCelular.exe
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioPOOCelular\bin\Debug\net7.0\DesafioPOOCelular.deps.json
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioPOOCelular\bin\Debug\net7.0\DesafioPOOCelular.runtimeconfig.json
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioPOOCelular\bin\Debug\net7.0\DesafioPOOCelular.dll
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioPOOCelular\bin\Debug\net7.0\DesafioPOOCelular.pdb
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioPOOCelular\obj\Debug\net7.0\DesafioPOOCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioPOOCelular\obj\Debug\net7.0\DesafioPOOCelular.AssemblyInfoInputs.cache
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioPOOCelular\obj\Debug\net7.0\DesafioPOOCelular.AssemblyInfo.cs
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioPOOCelular\obj\Debug\net7.0\DesafioPOOCelular.csproj.CoreCompileInputs.cache
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioPOOCelular\obj\Debug\net7.0\DesafioPOOCelular.dll
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioPOOCelular\obj\Debug\net7.0\refint\DesafioPOOCelular.dll
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioPOOCelular\obj\Debug\net7.0\DesafioPOOCelular.pdb
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioPOOCelular\obj\Debug\net7.0\DesafioPOOCelular.genruntimeconfig.cache
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioPOOCelular\obj\Debug\net7.0\ref\DesafioPOOCelular.dll
